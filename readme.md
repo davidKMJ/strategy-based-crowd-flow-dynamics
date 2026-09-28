@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/status-done-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/type-research-purple?style=for-the-badge)
 
-This repository contains the code behind our paper on strategy‑based crowd flow dynamics. The paper received the Minister’s Award at the 70th National Science Exhibition (Research; largest student contest in Korea) — 제70회 전국과학전람회 산업 및 에너지 부문 특상 (4위).
+The code behind our paper on strategy‑based crowd flow dynamics. The paper received the Minister’s Award at the 70th National Science Contest, Korea’s largest student research competition (제70회 전국과학전람회 산업 및 에너지 부문 특상 (4위)).
 
 ## Abstract
 
